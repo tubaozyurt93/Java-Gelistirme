@@ -1,2 +1,2 @@
-# Java Geliştirme Proje
+# Java Kamp Projesi
  
