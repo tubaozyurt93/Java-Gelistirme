@@ -1,2 +1,2 @@
-# JavaGelistirme
+# Java Geliştirme Proje
  
